@@ -1,6 +1,7 @@
 import {useState} from 'react'
 import axios from 'axios'
-import { useEffect } from 'react'
+import { useEffect } from 'react';
+
 
 //added proxy in vite.config to remove cors error
 
